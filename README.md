@@ -4,7 +4,7 @@
 <h1 align="center">Hi there👋, I'm Olzhas</h1>
 
 
-- 🌱 I’m currently learning **Spring, Servlets, Junit**
+- 🌱 I’m currently learning **Spring Cloud, Kafka**
 - 📫 How to reach me: ola.zhenisbek@gmail.com
 
 
